@@ -30,3 +30,4 @@ SELECT
 FROM category_sales
 
 ORDER BY total_sales DESC;
+
